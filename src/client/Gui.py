@@ -51,7 +51,7 @@ COLORS = {
     'yellow': (255, 216, 0)
 }
 CARD_IMAGES = ClientHelper.texture_scale.scale_cards(CARD_SIZE)
-# ClientHelper.button_resources.save_scaled_cards(CARD_IMAGES)
+ClientHelper.button_resources.save_scaled_cards(CARD_IMAGES)
 PORT_TEXTURES = ClientHelper.texture_scale.scale_port_tiles(HEX_SIZE)
 TILE_TEXTURES = ClientHelper.texture_scale.scale_resource_tiles(HEX_SIZE)
 ROAD_POINTS = ClientHelper.road_hardware_art.generate_road_polygons(HEX_SIZE / 4, 1 / 15)
