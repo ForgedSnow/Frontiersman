@@ -1,0 +1,2 @@
+CARD_SIZE = (70, 90)
+SPACING = 3

@@ -1,0 +1,133 @@
+{
+  "#knight": {
+    "images": {
+      "normal_image": {
+        "path": "assets/scaled/knight.png"
+      },
+      "hovered_image": {
+        "path": "assets/scaled/knight_hovered.png"
+      },
+      "disabled_image": {
+        "path": "assets/scaled/knight_disabled.png"
+      }
+    }
+  },
+  "#monopoly": {
+    "images": {
+      "normal_image": {
+        "path": "assets/scaled/monopoly.png"
+      },
+      "hovered_image": {
+        "path": "assets/scaled/monopoly_hovered.png"
+      },
+      "disabled_image": {
+        "path": "assets/scaled/monopoly_disabled.png"
+      }
+    }
+  },
+  "#roadBuilding": {
+    "images": {
+      "normal_image": {
+        "path": "assets/scaled/roadBuilding.png"
+      },
+      "hovered_image": {
+        "path": "assets/scaled/roadBuilding_hovered.png"
+      },
+      "disabled_image": {
+        "path": "assets/scaled/roadBuilding_disabled.png"
+      }
+    }
+  },
+  "#yearOfPlenty": {
+    "images": {
+      "normal_image": {
+        "path": "assets/scaled/yearOfPlenty.png"
+      },
+      "hovered_image": {
+        "path": "assets/scaled/yearOfPlenty_hovered.png"
+      },
+      "disabled_image": {
+        "path": "assets/scaled/yearOfPlenty_disabled.png"
+      }
+    }
+  },
+  "#victoryPoint": {
+    "images": {
+      "normal_image": {
+        "path": "assets/scaled/victoryPoint.png"
+      },
+      "hovered_image": {
+        "path": "assets/scaled/victoryPoint_hovered.png"
+      },
+      "disabled_image": {
+        "path": "assets/scaled/victoryPoint_disabled.png"
+      }
+    }
+  },
+  "#Brick": {
+    "images": {
+      "normal_image": {
+        "path": "assets/scaled/Brick.png"
+      },
+      "hovered_image": {
+        "path": "assets/scaled/Brick_hovered.png"
+      },
+      "disabled_image": {
+        "path": "assets/scaled/Brick_disabled.png"
+      }
+    }
+  },
+  "#Ore": {
+    "images": {
+      "normal_image": {
+        "path": "assets/scaled/Ore.png"
+      },
+      "hovered_image": {
+        "path": "assets/scaled/Ore_hovered.png"
+      },
+      "disabled_image": {
+        "path": "assets/scaled/Ore_disabled.png"
+      }
+    }
+  },
+  "#Sheep": {
+    "images": {
+      "normal_image": {
+        "path": "assets/scaled/Sheep.png"
+      },
+      "hovered_image": {
+        "path": "assets/scaled/Sheep_hovered.png"
+      },
+      "disabled_image": {
+        "path": "assets/scaled/Sheep_disabled.png"
+      }
+    }
+  },
+  "#Wheat": {
+    "images": {
+      "normal_image": {
+        "path": "assets/scaled/Wheat.png"
+      },
+      "hovered_image": {
+        "path": "assets/scaled/Wheat_hovered.png"
+      },
+      "disabled_image": {
+        "path": "assets/scaled/Wheat_disabled.png"
+      }
+    }
+  },
+  "#Wood": {
+    "images": {
+      "normal_image": {
+        "path": "assets/scaled/Wood.png"
+      },
+      "hovered_image": {
+        "path": "assets/scaled/Wood_hovered.png"
+      },
+      "disabled_image": {
+        "path": "assets/scaled/Wood_disabled.png"
+      }
+    }
+  }
+}
+
