@@ -1,10 +1,11 @@
-# CSI4930 Frontiersman
+# Frontiersman
 
 ## Description:
 
-A clone of Settlers of CATAN (base game, 1-4 players local multiplayer)
+A clone of Settlers of CATAN (base game, 1-4 players local multiplayer) written entirely in python using pygame
 
-The game rules are included in the Help Doc.pdf
+Game rules are nearly identical to the popular board game Settlers of Catan.
+Additional game rules are included in the Help Doc.pdf
 
 ## Installation:
 pip install frontiersman
