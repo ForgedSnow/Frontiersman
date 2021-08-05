@@ -14,14 +14,20 @@ Executable Line to Run Clients: FMClient
 
 #### Server
 One server can serve multiple lobbies at once.
+
 FMServer from the console will run the server with the default port of 5000
+
 FMServer [ip address] [port]
 
 #### Clients
 FMClient from the console will open the client with default parameters
+
 FMClient [player name] [ip address] [port]
+
 player name being your desired nickname to be displayed
+
 ip address for the server (default 127.0.0.1)
+
 port for the server (default 5000)
 
 ## Additional Information:
